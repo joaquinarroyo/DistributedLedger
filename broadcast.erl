@@ -1,7 +1,7 @@
 -module(broadcast).
 -include("struct.hrl"). %% 'msg' structure 
 %% Import the secondary functions
--import(funcSec, [maxProp/1, encolar/2, modificar/5, ordenar/2, buscarProp/2, deriverable/1]).
+-import(SecFunc, [maxProp/1, encolar/2, modificar/5, ordenar/2, buscarProp/2, deriverable/1]).
 -export([start/0, quit/0, aDeliver/0,aBroadcast/1, loopBr/5]).
 -define(NODES, 2). %% number of nodes
 -define(F, 0). %% number of nodes than can crash
