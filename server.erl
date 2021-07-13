@@ -7,6 +7,7 @@
 -define(F, 0). %% number of nodes than can crash
 -define(TO, 500). %% TO value (milliseconds)
 
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %%% Principal functions %%%
 
