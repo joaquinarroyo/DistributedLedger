@@ -2,6 +2,7 @@
 -include("struct.hrl"). %% 'send' structure
 -export([start/0, quit/0, get/0, append/1, client/2]).
 
+
 %% We register the client process
 start() ->
     register(cliente, spawn(?MODULE, client, [0, 0])),
