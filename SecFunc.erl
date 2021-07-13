@@ -1,4 +1,4 @@
--module(SecFunc).
+-module(secFunc).
 -compile([export_all]).
 
 
