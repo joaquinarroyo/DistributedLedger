@@ -1,4 +1,5 @@
 # DistributedLedger
+Authors: joaquinarroyo and NachoCainelli
 Implementation of an atomic broadcast and a distributed ledger in erlang.
 
 You've a report in spanish
