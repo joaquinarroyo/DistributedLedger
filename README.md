@@ -1,6 +1,4 @@
 # DistributedLedger
-Authors: NachoCainelli(https://github.com/NachoCainelli) and joaquinarroyo(me)
+__Authors__ [Cainelli Ignacio](https://github.com/NachoCainelli) and Arroyo Joaquin.
 
 Implementation of an atomic broadcast and a distributed ledger in erlang.
-
-You've a report in spanish
